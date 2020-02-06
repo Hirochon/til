@@ -3,6 +3,8 @@
 
 > A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post.
 
+I began writing this TIL from February 2020.
+
 Thanks to [Mr,Josh Branchaud](https://github.com/jbranchaud/til) for creating the concept of TIL.
 
 ---
