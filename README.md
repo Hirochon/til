@@ -33,7 +33,7 @@ Thanks to [Mr,Josh Branchaud](https://github.com/jbranchaud/til) for creating th
 
 ### Nginx
 
-- [docker×django×gunicornでNginxを使う](https://github.com/Hirochon/til/blob/master/nginx/docker%C3%97django%C3%97gunicorn%E3%81%A7Nginx%E3%82%92%E4%BD%BF%E3%81%86.md)
+- [docker×django×gunicornでNginxを使う (2020/2/8~9)](https://github.com/Hirochon/til/blob/master/nginx/docker%C3%97django%C3%97gunicorn%E3%81%A7Nginx%E3%82%92%E4%BD%BF%E3%81%86.md)
 
 ---
 
