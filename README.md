@@ -25,7 +25,7 @@ Thanks to [Mr,Josh Branchaud](https://github.com/jbranchaud/til) for creating th
 
 - [django-allauthのメールアドレス確認時にマイページ作成機能の実装 (2020/2/10)](https://github.com/Hirochon/til/blob/master/python/django-allauth%E3%81%AE%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E7%A2%BA%E8%AA%8D%E6%99%82%E3%81%AB%E3%83%9E%E3%82%A4%E3%83%9A%E3%83%BC%E3%82%B8%E4%BD%9C%E6%88%90%E6%A9%9F%E8%83%BD%E3%81%AE%E5%AE%9F%E8%A3%85.md)
 
-- [Shapparの細かな機能の実装と修正 (2020/2/12)](https://github.com/Hirochon/til/blob/master/python/shappar-細かな機能の実装と修正.md)
+- [shappar-Shapparの細かな機能の実装と修正 (2020/2/12)](https://github.com/Hirochon/til/blob/master/python/shappar-細かな機能の実装と修正.md)
 
 ---
 
