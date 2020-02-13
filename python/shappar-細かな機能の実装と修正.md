@@ -51,4 +51,9 @@ class MypageSerializer(serializers.ModelSerializer):
         fields = ['user_id','username','usernonamae','introduction','iconimage','homeimage']
 ```
 
-4. 
+4. Djangoのバージョンを2.2.10へバージョンアップ
+あげれる時に上げておこう精神です！
+
+5. 静的ファイルを読み込むように変更
+    1. DjangoがAPIサーバー、VueCLI3がフロントで動いてて、`npm run build`を行った際にトップディレクトリのtemplatesにHTMLを吐き出すように設定しているのだが、何故かCloudFrontが配信されなかった。
+    2. Djangoがcssやjsを読み込めていなかったため、読み込めるようにHTMLを修正したところ解決した。
