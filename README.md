@@ -31,7 +31,7 @@ Thanks to [Mr,Josh Branchaud](https://github.com/jbranchaud/til) for creating th
 
 - [shappar-モデルを結合&画像自動登録機能を実現(2020/2/14)](https://github.com/Hirochon/til/blob/master/python/shappar-モデルを結合&画像自動登録機能を実現.md)
 
-- [API設計について議論しまくる(2020/2/15)](https://github.com/Hirochon/til/blob/master/python/shappar-API設計について議論しまくる.md)
+- [shappar-API設計について議論しまくる(2020/2/15)](https://github.com/Hirochon/til/blob/master/python/shappar-API設計について議論しまくる.md)
 
 ---
 
