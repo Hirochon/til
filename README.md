@@ -27,9 +27,9 @@ Thanks to [Mr,Josh Branchaud](https://github.com/jbranchaud/til) for creating th
 
 - [shappar-Shapparの細かな機能の実装と修正 (2020/2/12)](https://github.com/Hirochon/til/blob/master/python/shappar-細かな機能の実装と修正.md)
 
-- [遂にフロントエンドとのAPIサーバーが実現した件 (2020/2/13)](https://github.com/Hirochon/til/blob/master/python/shappar-遂にフロントエンドとのAPIサーバーが実現した件.md)
+- [shappar-遂にフロントエンドとのAPIサーバーが実現した件 (2020/2/13)](https://github.com/Hirochon/til/blob/master/python/shappar-遂にフロントエンドとのAPIサーバーが実現した件.md)
 
-- [モデルを結合&画像自動登録機能を実現(2020/2/14)](https://github.com/Hirochon/til/blob/master/python/shappar-モデルを結合&画像自動登録機能を実現.md)
+- [shappar-モデルを結合&画像自動登録機能を実現(2020/2/14)](https://github.com/Hirochon/til/blob/master/python/shappar-モデルを結合&画像自動登録機能を実現.md)
 
 - [API設計について議論しまくる(2020/2/15)](https://github.com/Hirochon/til/blob/master/python/shappar-API設計について議論しまくる.md)
 
@@ -43,7 +43,7 @@ Thanks to [Mr,Josh Branchaud](https://github.com/jbranchaud/til) for creating th
 
 ### Nginx
 
-- [docker×django×gunicornでNginxを使う (2020/2/8~9)](https://github.com/Hirochon/til/blob/master/nginx/docker%C3%97django%C3%97gunicorn%E3%81%A7Nginx%E3%82%92%E4%BD%BF%E3%81%86.md)
+- [docker×django×gunicorn-Nginxを使う (2020/2/8~9)](https://github.com/Hirochon/til/blob/master/nginx/docker%C3%97django%C3%97gunicorn%E3%81%A7Nginx%E3%82%92%E4%BD%BF%E3%81%86.md)
 
 ---
 
