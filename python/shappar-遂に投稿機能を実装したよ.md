@@ -1,4 +1,4 @@
-## 遂にフロントエンドとのAPIサーバーが実現した件(2020/2/13)
+## 遂にフロントエンドとのAPIサーバーが実現した件(2020/2/)
 
 ### リポジトリ: [Shappar](https://github.com/Hirochon/Shappar)
 
@@ -9,13 +9,13 @@
 ```json:kaisou.json
 {
     "unique_id" : "uuid",
-            ~ 中略 ~
+            〜中略〜
     "options" : [
         {
             "select_num" : 1,
             "answer" : "なんでや！"
         },
-            ~ 中略 ~
+            〜中略〜
     ]
 }
 ```
