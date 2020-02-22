@@ -80,6 +80,8 @@ Thanks to [Mr,Josh Branchaud](https://github.com/jbranchaud/til) for creating th
 
 - [疲れで色々と吹っ飛んでいた (2020/2/18)](https://github.com/Hirochon/til/blob/master/thatday/疲れで色々と吹っ飛んでいた.md)
 
+- [様々なジャンルのタスクだったからコチラで (2020/2/22)](https://github.com/Hirochon/til/blob/master/thatday/様々なジャンルのタスクだったからコチラで.md)
+
 ---
 
 ### Date
