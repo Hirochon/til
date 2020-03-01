@@ -7,6 +7,8 @@ I began writing this TIL from February 2020.
 
 Thanks to [Mr,Josh Branchaud](https://github.com/jbranchaud/til) for creating the concept of TIL.
 
+えっと、作業してる脇で書いてるとかじゃなく、ほとんど後日談なので、あくまで『コイツこんな感じで勉強してんだぁ...』て軽い感じで見ていただければ。笑
+
 ---
 ### Categories
 
