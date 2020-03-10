@@ -1,4 +1,4 @@
-## お名前.comで取得したドメインをALB(ELB)を使って常時SSL化
+## お名前.comで取得したドメインをALB(ELB)を使って常時SSL化 (2020/2/21)
 
 ### リポジトリ: [Shappar](https://github.com/Hirochon/Shappar)
 
