@@ -66,6 +66,8 @@ Thanks to [Mr,Josh Branchaud](https://github.com/jbranchaud/til) for creating th
 
 - [shappar-今日も楽しくテストをかき続ける日々 (2020/3/21)](https://github.com/Hirochon/til/blob/master/python/shappar-今日も楽しくテストをかき続ける日々.md)
 
+- [shappar-Optionのシリアライザテストを追加 (2020/3/22)](https://github.com/Hirochon/til/blob/master/python/shappar-Optionのシリアライザテストを追加.md)
+
 ---
 
 ### AWS
